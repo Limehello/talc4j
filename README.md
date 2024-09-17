@@ -12,7 +12,7 @@ talc4J is a Java-based toolkit designed to facilitate the creation and developme
 
 ## Getting Started
 
-To get started with TALC4J, clone the repository and add it to your Java project:
+To get started with talc4J, clone the repository and add it to your Java project:
 
 ```bash
-git clone https://github.com/yourusername/talc4j.git
+git clone https://github.com/yourusername/talc4j.git```
